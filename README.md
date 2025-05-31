@@ -66,8 +66,6 @@
 
 ### **Future Enhancements**
 - Add support for downloading and parsing full paper PDFs using the arXiv `pdf_url`.
-- Enable contradiction or claim-matching by comparing current statements with past publications (e.g., fake statement detection).
-- Support additional academic sources (PubMed, IEEE Xplore).
 - Build a Streamlit UI for interactive querying and visualization.
 
 ---
