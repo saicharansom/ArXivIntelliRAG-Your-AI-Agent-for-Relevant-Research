@@ -1,0 +1,43 @@
+## 📄 Paper 1: AI Agents: Evolution, Architecture, and Real-World Applications
+**PDF Link:** http://arxiv.org/pdf/2503.12687v1.pdf
+
+**Relevance Score:** 0.5742
+
+**Abstract:**
+This paper examines the evolution, architecture, and practical applications of AI agents from their early, rule-based incarnations to modern sophisticated systems that integrate large language models with dedicated modules for perception, planning, and tool use. Emphasizing both theoretical foundations and real-world deployments, the paper reviews key agent paradigms, discusses limitations of current evaluation benchmarks, and proposes a holistic evaluation framework that balances task effectiveness, efficiency, robustness, and safety. Applications across enterprise, personal assistance, and specialized domains are analyzed, with insights into future research directions for more resilient and adaptive AI agent systems.
+
+**🔍 Summary:**
+This paper examines the evolution, architecture, and practical applications of AI agents from their early beginnings to modern sophisticated systems that integrate large language models. The authors review key agent paradigms, discuss limitations of current evaluation benchmarks, and propose a holistic evaluation framework that balances task effectiveness, efficiency, robustness, and safety. They analyze applications across enterprise, personal assistance, and specialized domains, and provide insights into future research directions for more resilient and adaptive AI agent systems.
+
+---
+
+## 📄 Paper 2: Generative AI as Economic Agents
+**PDF Link:** http://arxiv.org/pdf/2406.00477v1.pdf
+
+**Relevance Score:** 0.5720
+
+**Abstract:**
+Traditionally, AI has been modeled within economics as a technology that impacts payoffs by reducing costs or refining information for human agents. Our position is that, in light of recent advances in generative AI, it is increasingly useful to model AI itself as an economic agent. In our framework, each user is augmented with an AI agent and can consult the AI prior to taking actions in a game. The AI agent and the user have potentially different information and preferences over the communication, which can result in equilibria that are qualitatively different than in settings without AI.
+
+**🔍 Summary:**
+This research abstract discusses the role of Artificial Intelligence (AI) as an economic agent and explores its trust dynamics with humans. The study proposes a framework where users interact with AI agents prior to taking actions, allowing them to influence the AI's behavior. The researchers also investigate whether advanced AI systems can trust humans in return.
+
+Two experiments are presented: one using human participants to configure an AI-powered cartpole game, and another involving hundreds of trust games between an AI agent (a Large Language Model) and a human experimenter. These studies aim to understand how AI agents decide on trusting humans and whether they alter their behavior when faced with incentives.
+
+The findings suggest that advanced AI systems can display behavior consistent with trust toward humans when incentivized, but the magnitude of stakes does not seem to affect the AI's trust decisions. The researchers also find that the AI agents consistently choose a certain option over an uncertain one in non-social decision tasks. Overall, the study proposes "Actionable AI" as a way to empower end-users to influence AI agents towards their goals and aims to advance our understanding of human-AI trust dynamics.
+
+---
+
+## 📄 Paper 3: Develop AI Agents for System Engineering in Factorio
+**PDF Link:** http://arxiv.org/pdf/2502.01492v1.pdf
+
+**Relevance Score:** 0.5688
+
+**Abstract:**
+Continuing advances in frontier model research are paving the way for widespread deployment of AI agents. Meanwhile, global interest in building large, complex systems in software, manufacturing, energy and logistics has never been greater. Although AI driven system engineering holds tremendous promise, the static benchmarks dominating agent evaluations today fail to capture the crucial skills required for implementing dynamic systems, such as managing uncertain trade-offs and ensuring proactive adaptability. This position paper advocates for training and evaluating AI agents' system engineering abilities through automation-oriented sandbox games-particularly Factorio. By directing research efforts in this direction, we can equip AI agents with the specialized reasoning and long-horizon planning necessary to design, maintain, and optimize tomorrow's most demanding engineering projects.
+
+**🔍 Summary:**
+This abstract discusses advancements in AI agent research and their applications in various domains. The authors argue that current evaluation benchmarks are insufficient for capturing the skills required for implementing dynamic systems. They propose training and evaluating AI agents through automation-oriented sandbox games, such as Factorio, to equip them with specialized reasoning and long-horizon planning capabilities necessary for complex engineering projects. The researchers aim to develop more resilient and adaptable AI agent systems that can effectively navigate uncertain trade-offs and ensure proactive adaptability.
+
+---
+
