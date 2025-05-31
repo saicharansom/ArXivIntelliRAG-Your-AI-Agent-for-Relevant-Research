@@ -60,7 +60,7 @@
 
 #### **5. Output Saving**
 - Final results are saved into:
-  - **Markdown file** (`top_summarized_papers.md`)
+  - **Markdown file** (`ArXivIntelliRAG_summary.md`)
 
 ---
 
